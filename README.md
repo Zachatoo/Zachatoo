@@ -3,14 +3,12 @@
   - Learning anything and everything related to web development
   - Creating something useful and interesting
 - 🌱 I’m currently learning ...
-  - Node.js
-  - Express
-  - Mongoose w/ MongoDB
+  - Dart w/ Flutter
+  - Node.js w/ Express & MongoDB
 - 💪 I'm proficient in ...
   - React.js
   - Angular
-  - .Net / C#
-  - Entity Framework
+  - .Net w/ C# & Entity Framework
   - Sql Server
 - 📫 How to reach me ...
   - 🐦Twitter @zachatoo
