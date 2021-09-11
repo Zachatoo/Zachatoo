@@ -1,15 +1,16 @@
 - 👋 Hi, I’m @Zachatoo
 - 👀 I’m interested in ...
-  - Learning anything and everything related to web development
-  - Creating something useful and interesting
+  - Automating the boring stuff
+  - Creating web applications
 - 🌱 I’m currently learning ...
   - Dart w/ Flutter
-  - Node.js w/ Express & MongoDB
+  - Typescript
+  - Node.js w/ Express
 - 💪 I'm proficient in ...
-  - React.js
+  - React
   - Angular
   - .Net w/ C# & Entity Framework
-  - Sql Server
+  - Sql
 - 📫 How to reach me ...
   - 🐦Twitter @zachatoo
 
