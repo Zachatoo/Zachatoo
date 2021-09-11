@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Zachatoo
+- 👋 Hi, I’m Zach Young
 - 👀 I’m interested in ...
   - Automating the boring stuff
   - Creating web applications
