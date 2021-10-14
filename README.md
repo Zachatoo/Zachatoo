@@ -8,7 +8,7 @@
   - Node.js w/ Express
 - 💪 I'm proficient in ...
   - React
-  - Angular
+  - Javascript / Node.js
   - .Net w/ C# & Entity Framework
   - Sql
 - 📫 How to reach me ...
