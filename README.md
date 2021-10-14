@@ -5,7 +5,7 @@
 - 🌱 I’m currently learning ...
   - Dart w/ Flutter
   - Typescript
-  - Node.js w/ Express
+  - GraphQL
 - 💪 I'm proficient in ...
   - React
   - Javascript / Node.js
