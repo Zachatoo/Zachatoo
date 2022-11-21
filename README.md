@@ -4,8 +4,8 @@
   - Creating web applications
 - 💪 I'm proficient in ...
   - React
-  - Javascript / Node.js
-  - .Net w/ C# & Entity Framework
+  - Typescript / Javascript
+  - .Net / C#
 
 <!---
 Zachatoo/Zachatoo is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
