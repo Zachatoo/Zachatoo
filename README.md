@@ -1,4 +1,4 @@
-My name is Zach Young. I am passionate about using technology to make people’s lives easier and more efficient.
+My name is Zach Young.
 
 Check out my website to learn more about me https://zachyoung.dev
 
